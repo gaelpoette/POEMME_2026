@@ -1,12 +1,15 @@
 # Titre: Un lundi en code collab...
 
 
-Un lundi en code collab, à huit heure du mat
-Nous apprenames tous à utiliser github
-Le lendemain d'une excellente soirée au pub
+Un lundi  en code collab, à huit heure du mat
+Nous apprenames  tous à utiliser github
+Le lendemain d'une  excellente soirée au pub
+ 
 
 Utiliser git semblait simple au début
+
 à l'arrivée des merges, ça ne l'était plus
 
-A la recherche d'un stage dans le village
-J'ai rencontré un très etrange personnage
+A la i recherche d'un stage dans le village
+
+J'ai  rencontré un très etrange personnage
