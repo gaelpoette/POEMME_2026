@@ -15,4 +15,5 @@ A la  recherche d'un stage dans le village
 J'ai  rencontré un très etrange personnage
 j'ai juste envie d'aller manger au resto U
 
-j'ai  réussi à push, je trouve ça louche
+j'ai réussi à push, je trouve ça louche
+j'ai réussi à pull, je trouve ça cool
