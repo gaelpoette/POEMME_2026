@@ -8,5 +8,8 @@ Le lendemain d'une excellente soirée au pub
 Utiliser git semblait simple au début
 à l'arrivée des merges, ça ne l'était plus
 
+j'ai juste envie d'aller manger au resto U
 A la recherche d'un stage dans le village
 J'ai rencontré un très etrange personnage
+
+j'ai  réussi à push, je trouve ça louche
