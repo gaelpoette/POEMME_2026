@@ -1,1 +1,4 @@
 # Titre: Un lundi en code collab...
+
+Utiliser git semblait simple au début
+à l'arrivée des merges, ça ne l'était plus
