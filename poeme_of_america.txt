@@ -5,18 +5,17 @@ Un lundi  en code collab, à neuf heure du mat
 Nous apprenames  tous à utiliser github
 Le lendemain d'une  excellente soirée au pub
 Un peu tête en l'air, j'm'étais mis la misère
-je reste concentré toute la matiné
+je reste concentré toute la matinée
 
 Utiliser git semblait simple au début
 à l'arrivée des merges, ça ne l'était plus
 
-A la  recherche d'un stage dans le village
-
+A la recherche d'un stage dans le village
 J'ai  rencontré un très etrange personnage
+
 j'ai juste envie d'aller manger au resto U
 
 j'ai réussi à push, je trouve ça louche
-
 j'ai réussi à pull, je trouve ça cool
 
 Trump s'est imissé dans notre génial projet
