@@ -15,13 +15,14 @@ Utiliser git semblait simple au début
 A la  recherche d'un stage dans le village
 
 J'ai  rencontré un très etrange personnage
+
 j'ai juste envie d'aller manger au resto U
 
 j'ai réussi à push, je trouve ça louche
 
 j'ai réussi à pull, je trouve ça cool
 
-Trump s'est imissé dans notre génial projet
+Trump s'est immissé dans notre génial projet
 Malgré nos efforts pour le tenir éloigné
 
 Président comme Riner, qui est preneur // problème : 10 syllabes au lieu de 12
