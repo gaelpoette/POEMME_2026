@@ -4,7 +4,7 @@
 Un lundi  en code collab, à huit heure du mat
 Nous apprenames  tous à utiliser github
 Le lendemain d'une  excellente soirée au pub
- 
+Un peu tête en l'air, j'm'étais mis la misère
 
 Utiliser git semblait simple au début
 
