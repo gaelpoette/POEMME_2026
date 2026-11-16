@@ -21,9 +21,6 @@ j'ai réussi à pull, je trouve ça cool
 
 Trump s'est imissé dans notre génial projet
 Malgré nos efforts pour le tenir éloigné
-<<<<<<< HEAD
 
 Président comme Riner, qui est preneur
 Ippon et zéro neurone
-=======
->>>>>>> f6b853474b0ce103d848c4bb2b9ff29ae16a6eb9
