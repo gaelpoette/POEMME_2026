@@ -1,1 +1,3 @@
 Proposition : chacun s'accorde des roles
+Gael : chef de projet
+adrien : intégrateur (apparemment)
