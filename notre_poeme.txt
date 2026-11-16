@@ -10,6 +10,11 @@ Utiliser git semblait simple au début
 
 à l'arrivée des merges, ça ne l'était plus
 
-A la i recherche d'un stage dans le village
+A la  recherche d'un stage dans le village
 
 J'ai  rencontré un très etrange personnage
+j'ai juste envie d'aller manger au resto U
+A la recherche d'un stage dans le village
+J'ai rencontré un très etrange personnage
+
+j'ai  réussi à push, je trouve ça louche
