@@ -7,7 +7,6 @@ Le lendemain d'une  excellente soirée au pub
  
 
 Utiliser git semblait simple au début
-
 à l'arrivée des merges, ça ne l'était plus
 
 A la  recherche d'un stage dans le village
