@@ -3,3 +3,6 @@
 
 Un lundi en code collab, à huit heure du mat
 Nous apprenames tous à utiliser github
+
+Utiliser git semblait simple au début
+à l'arrivée des merges, ça ne l'était plus
